@@ -1,0 +1,60 @@
+- **AI-Assisted Data Pipeline (ETL)**
+	- **Key Business Values**
+		- Faster Development Time
+		- Reduced Engineering and (potentially) Maintenance Costs
+		- Better Documentation
+	- **Technical Challenges**
+		- Generating Correct Architectures and Using Optimal Tools (sometimes AI defaults to the popular but not the best choice)
+		- Developing a Proper Schema
+		- Validating Code with Edge Cases and Real Noisy Data
+	- **Weak Points**
+		- Silent Incorrect Data Transformation
+	- **Existing Implementations**
+		- Gemini - Can be asked to develop an architecture and proper workflow
+- **AI Music Production**
+	- **Key Business Values**
+		- Faster Cycle Times
+		- Higher Quantity
+		- Easier to "Change on the Spot"
+	- **Technical Challenges**
+		- Following Proper Musical Structure
+		- Monotony
+	- **Weak Points**
+		- Originality
+		- Copyright Infringement
+	- **Existing Implementations**
+		- Suno AI - Generates songs from text prompts
+- **Personal Task and Notes Manager**
+	- **Key Business Values**
+		- Faster Literature Reviews
+		- Faster Contradiction Discovery
+		- Improved Readability and Consistency
+	- **Technical Challenges**
+		- Proper Integration with Services
+		- Backups (in case AI deletes everything)
+		- Proper Formatting
+		- Detecting "made-up" words
+	- **Weak Points**
+		- Privacy
+		- Fabricated Sources
+		- Neglecting Small Details
+		- Losing Personality
+	- **Existing Implementations**
+		- TickTick AI - Integrated, but very simplistic. Runs only on tasks entered in TickTick
+		- ClickUp - Has ClickUp Brain but honestly feels very barebones, lacks depth and ease of use
+		- [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - GitHub repo that utilizes AI in Obsidian to organize and control notes. Haven't tried it, don't wanna risk making my notes public
+- **AI Image Generation for Marketing**
+	- **Key Business Values**
+		- Reduced Costs
+		- Easier Manager-to-Creation Flow (text prompts)
+		- Quick Changes
+	- **Technical Challenges**
+		- Avoiding the "AI Vibe" From Photos
+		- Readable Words/Letters (AI commonly garbles them up)
+		- AI Disclosure Choice (include or not?)
+	- **Weak Points**
+		- Copyright Infringement
+		- Public Perception
+	- **Existing Implementations**
+		- [Nano Banana](https://aistudio.google.com/models/nano-banana) - AI for creating High-quality images
+		- Canva AI - implemented in it to streamline the process
