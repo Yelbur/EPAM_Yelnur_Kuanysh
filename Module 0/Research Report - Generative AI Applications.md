@@ -1,16 +1,3 @@
-- **AI-Assisted Data Pipeline (ETL)**
-	- **Key Business Values**
-		- Faster Development Time
-		- Reduced Engineering and (potentially) Maintenance Costs
-		- Better Documentation
-	- **Technical Challenges**
-		- Generating Correct Architectures and Using Optimal Tools (sometimes AI defaults to the popular but not the best choice)
-		- Developing a Proper Schema
-		- Validating Code with Edge Cases and Real Noisy Data
-	- **Weak Points**
-		- Silent Incorrect Data Transformation
-	- **Existing Implementations**
-		- Gemini - Can be asked to develop an architecture and proper workflow
 - **AI Music Production**
 	- **Key Business Values**
 		- Faster Cycle Times
@@ -23,7 +10,7 @@
 		- Originality
 		- Copyright Infringement
 	- **Existing Implementations**
-		- Suno AI - Generates songs from text prompts
+		- [Suno AI](https://suno.com) - Generates songs from text prompts
 - **Personal Task and Notes Manager**
 	- **Key Business Values**
 		- Faster Literature Reviews
@@ -40,8 +27,8 @@
 		- Neglecting Small Details
 		- Losing Personality
 	- **Existing Implementations**
-		- TickTick AI - Integrated, but very simplistic. Runs only on tasks entered in TickTick
-		- ClickUp - Has ClickUp Brain but honestly feels very barebones, lacks depth and ease of use
+		- [TickTick AI](https://help.ticktick.com/articles/7444685542580551680) - Integrated, but very simplistic. Runs only on tasks entered in TickTick
+		- [ClickUp](https://clickup.com/brain) - Has ClickUp Brain but honestly feels very barebones, lacks depth and ease of use
 		- [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - GitHub repo that utilizes AI in Obsidian to organize and control notes. Haven't tried it, don't wanna risk making my notes public
 - **AI Image Generation for Marketing**
 	- **Key Business Values**
@@ -57,4 +44,4 @@
 		- Public Perception
 	- **Existing Implementations**
 		- [Nano Banana](https://aistudio.google.com/models/nano-banana) - AI for creating High-quality images
-		- Canva AI - implemented in it to streamline the process
+		- [Canva AI](https://www.canva.com/canva-ai/) - implemented in it to streamline the process
